@@ -27,7 +27,7 @@ class App extends Component{
         return (
             <IconInput
                 value={this.state.input1}
-                onChange={(e) => { this.updateInput(e,'input1') }}>
+                onChange={(e) => { this.updateInput(e) }}>
                 <Edit />
             </IconInput>
         )
