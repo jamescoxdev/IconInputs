@@ -1,5 +1,5 @@
 # IconInputs
-React Component for Inputs with Icons
+React Component for Inputs with Material-UI Icons
 
 
 ---
